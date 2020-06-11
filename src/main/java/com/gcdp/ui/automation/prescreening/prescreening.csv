@@ -1,0 +1,2 @@
+program,organization,prescreeningName,projectDescription,city,province,country,postalCode,startDate,endDate,requestedAAFFunding,totalValue,projectObjective,aafcAmount,applicationAmount,industryAmount,otherAmount,naisParentCode,naisId
+AgriInnovate Program,RAM Organization,RT-AutomationCSV,Test,Ottawa,Ontario,Canada,K1K1K1,04/01/2020,12/31/2020,12000,120000,Test,12,12,12,12,Agricultural Production,11115: Corn Farming										
